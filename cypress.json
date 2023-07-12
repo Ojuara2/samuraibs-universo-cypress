@@ -1,5 +1,12 @@
 {
     "baseUrl":  "http://localhost:3000",
     "viewportWidth": 1440,
-    "viewportHeight": 900
+    "viewportHeight": 900,
+    "dbConfig": {
+        "host": "rajje.db.elephantsql.com",
+        "user": "lzvwqtdv",
+        "password": "z3O6SzVaYvOmbMo5lbYENNaEpwOCcgsC",
+        "database": "lzvwqtdv",
+        "post": 5432 
+    }
 }
